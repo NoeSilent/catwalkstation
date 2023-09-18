@@ -31757,7 +31757,6 @@
 /area/station/maintenance/starboard/lesser)
 "oQM" = (
 /obj/effect/spawner/structure/window/reinforced,
-/obj/effect/decal/cleanable/blood/splatter/over_window,
 /turf/open/floor/plating,
 /area/station/security/detectives_office/private_investigators_office)
 "oQO" = (
@@ -32745,7 +32744,7 @@
 "pnv" = (
 /obj/vehicle/sealed/mecha/ripley/cargo{
 	name = "\improper APLU \";
-	\t\t\tCargostormer 3\""=None
+	\t\t\t\tCargostormer 3\""=None
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
@@ -157834,10 +157833,10 @@ paf
 paf
 paf
 kdR
-paf
-paf
-paf
-paf
+jPa
+jPa
+jPa
+jPa
 jPa
 jPa
 paf
